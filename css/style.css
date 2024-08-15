@@ -1,0 +1,23 @@
+th {
+    background-color: #F90;
+    font-size: 14pt;
+    color: #FFF;
+    padding: 10px;
+    font-family: Tahoma;
+}
+
+th a {
+    text-decoration: none
+}
+
+#logo {
+    color: #FFF;
+    font-family: Verdana;
+    font-size: 33pt;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px #F90;
+    padding: 20px 1px
+}
+th:hover{
+    background-color: #F60;
+}
